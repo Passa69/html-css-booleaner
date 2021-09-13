@@ -60,3 +60,21 @@ h1{
 #important{
     background-color: yellow;
 }
+
+/* Tabella */
+#table_head{
+    color: white;
+    background-color: rgb(52, 173, 248);
+}
+
+#table_text{
+    font-size: 15px;
+}
+
+.table_onetwo{
+    width: 450px;
+}
+
+.firstthird{
+    background-color: lightskyblue;
+}
